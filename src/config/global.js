@@ -1,17 +1,18 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Promotoría ambiental',
+    descripcionCurso:
+      'La naturaleza de la comunidad es el beneficio de todos sus miembros y la evolución de la misma. La promotoría ambiental propone desde los espacios de diálogo y reflexión, el llamado a la planeación y ejecución de proyectos enfocados en la protección del ambiente y el aprovechamiento adecuado de los recursos naturales. ',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
       },
     ],
   },
@@ -32,14 +33,32 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Comunidades',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Tipos y formas de organización en comunidades',
             hash: 't_1_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo: 'Actores sociales y grupos de interés',
+            hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Enfoque pluralista y diferencial',
+            hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo: 'Características socio-ecológicas',
+            hash: 't_1_4',
           },
         ],
       },
@@ -48,14 +67,21 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Metodologías participativas',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Problemáticas ambientales',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '3',
+        titulo: 'Promotoría ambiental',
         desarrolloContenidos: true,
       },
     ],
@@ -101,32 +127,163 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Gestión de la comunidad. Herramientas comunitarias ',
+      referencia:
+        'Centro para la Salud y Desarrollo Comunitario de la Universidad de Kansas (2022). Evaluar las necesidades y recursos de la comunidad.  ',
+      tipo: 'Página Web',
+      link:
+        'https://ctb.ku.edu/es/tabla-de-contenidos/valoracion/valorar-las-necesidades-y-recursos-comunitarios/descripcion-comunitaria/principal ',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Metodologías participativas ',
+      referencia:
+        'Departamento de Participación Social y Gestión Integral del Usuario. (2017). <i>Metodologías participativas para facilitadores de grupos</i>. Ministerio de Salud de Chile.',
+      tipo: 'Guía',
+      link:
+        'https://redsalud.ssmso.cl/wp-content/uploads/2019/03/Gu%C3%ADa-de-metodolog%C3%ADas-participativas-para-Facilitadores-de-grupos.pdf ',
+    },
+    {
+      tema: 'Metodologías participativas ',
+      referencia:
+        'Soliz, F. y Maldonado, A. (2012). <i>Guía de metodologías participativas comunitarias</i>. Universidad Andina Simón Bolívar.',
+      tipo: 'Guía',
+      link:
+        'https://repositorio.uasb.edu.ec/bitstream/10644/3997/1/Soliz,%20F-CON008-Guia5.pdf ',
+    },
+    {
+      tema: 'Aldeas Infantiles SOS Colombia',
+      referencia: 'Aldeas Infantiles SOS Colombia (2022). ',
+      tipo: 'Página Web',
+      link: 'https://www.aldeasinfantiles.org.co/',
+    },
+    {
+      tema: 'Informe de los Objetivos del Desarrollo Sostenible 2022',
+      referencia:
+        'Organización de las Naciones Unidas (2022). <i>Informe de los Objetivos del Desarrollo Sostenible</i>. ONU.',
+      tipo: 'Informe ',
+      link:
+        'https://unstats.un.org/sdgs/report/2022/The-Sustainable-Development-Goals-Report-2022_Spanish.pdf ',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Antecedente',
+      significado:
+        'situación o circunstancia que se encuentra antes de la cosa a la que se está haciendo referencia.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Convite',
+      significado:
+        'en Colombia, es un grupo de personas que se reúne para hacer un trabajo colaborativo de manera voluntaria, para realizar alguna acción que es de interés para la comunidad.     ',
+    },
+    {
+      termino: 'Cultura',
+      significado:
+        'conjunto de conocimientos, ideas, tradiciones y costumbres que caracterizan a un pueblo, a una clase social, a una época, etc.',
+    },
+    {
+      termino: 'Depuración',
+      significado:
+        'eliminación de cosas que no son importantes para el proceso que se está realizando.',
+    },
+    {
+      termino: 'Didáctica',
+      significado:
+        'parte de la pedagogía que estudia las técnicas y métodos de enseñanza.',
+    },
+    {
+      termino: 'Dinamismo',
+      significado:
+        'cualidad de las cosas, empresas o actividades que tienen actividad, movimiento e innovación y que están en constante transformación o la hacen posible.',
+    },
+    {
+      termino: 'Iniciativa',
+      significado: 'capacidad e intención de proponer o comenzar cosas nuevas.',
+    },
+    {
+      termino: 'Recurso',
+      significado:
+        'material, persona o cosa que sirve para conseguir un fin o satisfacer una necesidad.',
+    },
+    {
+      termino: 'Sociedad',
+      significado: 'conjunto de personas relacionadas entre sí.',
+    },
+    {
+      termino: 'Víctima',
+      significado:
+        'persona o animal, que sufre un daño o perjuicio a causa de una acción o suceso.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Consejo Directivo Nacional del SENA. (2016, diciembre 20). Acuerdo N°10 de 2016. "Por medio del cual se adopta la política de atención con Enfoque Pluralista y Diferencial en el SENA". SENA. ',
+      link: 'https://normograma.sena.edu.co/docs/acuerdo_sena_0010_2016.htm',
+    },
+    {
+      referencia:
+        'Constitución Política de Colombia 1991. De los derechos Ciudadanos ',
+      link: 'http://www.secretariasenado.gov.co/constitucion-politica',
+    },
+    {
+      referencia:
+        'Departamento de Participación Social y Gestión Integral del Usuario. (2017). <i>Servicio de Salud Metropolitano Sur Oriente. Región Metropolitana</i>. Ministerio de Salud Chile',
+      link:
+        '. https://redsalud.ssmso.cl/wp-content/uploads/2019/03/Gu%C3%ADa-de-metodolog%C3%ADas-participativas-para-Facilitadores-de-grupos.pdf',
+    },
+    {
+      referencia:
+        'FAO. Organización de las Naciones Unidas para la Alimentación y la Agricultura. (2022). <i>Organización de las Naciones Unidas para la Alimentación y la Agricultura</i>. Obtenido de Evaluación mundial de la contaminación del suelo. Resumen para los formuladores de políticas. ',
+      link: 'https://www.fao.org/3/cb4827es/cb4827es.pdf',
+    },
+    {
+      referencia:
+        'Gobierno de Colombia. Unidad para la Atención y Reparación Integral a las Víctimas (2022). <i>Unidad Para las Víctimas</i>. Obtenido de ',
+      link:
+        'https://www.unidadvictimas.gov.co/es/atencion-asistencia-y-reparacion-integral/enfoques-diferenciales/473#:~:text=La%20ley%20establece%20que%3A,sexual%20y%20situaci%C3%B3n%20de%20discapacidad',
+    },
+    {
+      referencia:
+        'ICBF Instituto Colombiano de Bienestar Familiar. (2021). <i>Guía de Metodologías Participativas.</i>',
+      link:
+        'https://www.icbf.gov.co/system/files/procesos/g10.mo4_.pp_guia_metodologias_participativas_teb_v2.pdf',
+    },
+    {
+      referencia:
+        'IDEAM. Instituto de Hidrología, Meteorología y Estudios Ambientales. (2017). <i>Elaboración del informe del estado del medio ambiente y los recursos naturales renovables.</i>',
+      link:
+        'http://sgi.ideam.gov.co/documents/412030/499496/M-GCI-P002%20PROCEDIMIENTO%20ELABORACI%C3%93N%20IEARNR.pdf/16e0a36b-25c3-4076-afbd-7b61cd31ba59',
+    },
+    {
+      referencia:
+        'Ministerio de Ambiente de Colombia. (2022). <i>Red Nacional de Promotores Ambientales Comunitarios.</i>',
+      link:
+        'https://archivo.minambiente.gov.co/index.php/ordenamiento-ambiental-territorial-y-coordinacion-del-sina/educacion-y-participacion/red-nacional-de-promotores-ambientales-comunitarios',
+    },
+    {
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible Colombia. (2022). Aprobado en tercer debate Acuerdo de Escazú que será ley a partir del tratado internacional de América Latina y el Caribe relativo al medio ambiente, y el primero del mundo que incluye disposiciones sobre los derechos de los defensores del medio ambiente',
+      link:
+        'https://www.minambiente.gov.co/acuerdo-de-escazu/aprobado-acuerdo-de-escazu-a-63-dias-de-iniciar-gobierno-del-presidente-petro/#:~:text=El%20Acuerdo%20de%20Escaz%C3%BA%20entr%C3%B3,los%20defensores%20del%20medio%20ambiente.',
+    },
+    {
+      referencia:
+        'Ministerio del Trabajo Colombia1.950 <i>Decreto 2663 de 1950</i>. Código Sustantivo del Trabajo ',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=33104',
+    },
+    {
+      referencia:
+        'Naciones Unidas. (2019). <i>Informe de los Objetivos del Desarrollo Sostenible</i>. Lois Jensen. ',
+      link:
+        'https://unstats.un.org/sdgs/report/2019/The-Sustainable-Development-Goals-Report-2019_Spanish.pdf',
+    },
+    {
+      referencia:
+        'Universidad Nacional de Colombia (2017). <i>Taller Internacional de Creación Cartográfica para la Participación, Autogestión y Empoderamiento de los Territorios Locales</i>. Obtenido de ',
+      link:
+        'https://www.humanas.unal.edu.co/estepa/files/2215/0259/2092/CARTILLA.pdf',
     },
   ],
   creditos: {
