@@ -132,7 +132,7 @@
     p.mt-5.mb-5 En esta sección se presentan las relaciones que se establecen entre los diferentes sectores de la sociedad, se identifican los roles del sector gubernamental representado por el Estado y responsable del poder político; el sector privado actor que representa en gran parte el poder económico; y el sector social representante del poder de asociación, cooperación y solidaridad. Estas tres figuras no deben actuar como entes aislados, sino que deben promover la acción conjunta y participativa. Los actores sociales pueden encontrarse en cualquiera de las esferas, como se verá más adelante en algunos ejemplos.         
 
     .row.justify-content-center.mt-5
-      .col-md-11.mt-5
+      .col-md-12.mt-5
         figure 
           img(src='@/assets/curso/temas/tema1/img9.png', alt='alt') 
       .col-md-10
@@ -215,10 +215,9 @@
             .bloque-texto-b__texto
               p Una característica crucial del trabajo en comunidad es la promoción de un enfoque pluralista y diferencial dentro de sus políticas, como se aprecia a continuación. Estos términos se refieren a la visión de una comunidad que permita el acceso de todo tipo de individuo a los beneficios que pueda ofrecer la comunidad, sin ejercer ningún tipo de discriminación o exclusión y teniendo en cuenta sus diferencias e igualdades, claramente, si este individuo decide hacer parte de ella y tiene al menos un aspecto en común que le permita ser participe.
                
- 
       .col-md-4.mt-5
         figure 
-          img(src='@/assets/curso/temas/tema1/img11.png', alt='alt') 
+          img(src='@/assets/curso/temas/tema1/img19.png', alt='alt') 
 
 
     <separador></separador>
