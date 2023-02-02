@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Promotoría ambiental',
     descripcionCurso:
-      'La naturaleza de la comunidad es el beneficio de todos sus miembros y la evolución de la misma. La promotoría ambiental propone desde los espacios de diálogo y reflexión, el llamado a la planeación y ejecución de proyectos enfocados en la protección del ambiente y el aprovechamiento adecuado de los recursos naturales. ',
+      'La naturaleza en la que habita una comunidad es, además de su entorno, el beneficio para todos sus miembros y la evolución de la misma. La promotoría ambiental propone, desde los espacios de diálogo y reflexión, el llamado a la planeación y ejecución de proyectos enfocados en la protección del ambiente y el aprovechamiento adecuado de los recursos naturales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -33,34 +33,8 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Comunidades',
+        titulo: 'Comunidades: tipos, formas y características socio-ecológicas',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Tipos y formas de organización en comunidades',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Actores sociales y grupos de interés',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Enfoque pluralista y diferencial',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Características socio-ecológicas',
-            hash: 't_1_4',
-          },
-        ],
       },
 
       {
@@ -74,14 +48,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Problemáticas ambientales',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema4',
-        icono: 'far fa-file-alt',
-        numero: '3',
-        titulo: 'Promotoría ambiental',
+        titulo: 'Problemáticas ambientales y promotorías ambientales',
         desarrolloContenidos: true,
       },
     ],
@@ -127,9 +94,9 @@ export default {
   },
   complementario: [
     {
-      tema: 'Gestión de la comunidad. Herramientas comunitarias ',
+      tema: 'Comunidades: tipos, formas y características socio-ecológicas ',
       referencia:
-        'Centro para la Salud y Desarrollo Comunitario de la Universidad de Kansas (2022). Evaluar las necesidades y recursos de la comunidad.  ',
+        'Centro para la Salud y Desarrollo Comunitario de la Universidad de Kansas. (2022). <em>Evaluar las necesidades y recursos de la comunidad.</em>',
       tipo: 'Página Web',
       link:
         'https://ctb.ku.edu/es/tabla-de-contenidos/valoracion/valorar-las-necesidades-y-recursos-comunitarios/descripcion-comunitaria/principal ',
@@ -137,7 +104,7 @@ export default {
     {
       tema: 'Metodologías participativas ',
       referencia:
-        'Departamento de Participación Social y Gestión Integral del Usuario. (2017). <i>Metodologías participativas para facilitadores de grupos</i>. Ministerio de Salud de Chile.',
+        'Departamento de Participación Social y Gestión Integral del Usuario. (2017). <em>Guía de metodologías participativas para facilitadores de grupos.</em> Ministerio de Salud de Chile.',
       tipo: 'Guía',
       link:
         'https://redsalud.ssmso.cl/wp-content/uploads/2019/03/Gu%C3%ADa-de-metodolog%C3%ADas-participativas-para-Facilitadores-de-grupos.pdf ',
@@ -145,21 +112,21 @@ export default {
     {
       tema: 'Metodologías participativas ',
       referencia:
-        'Soliz, F. y Maldonado, A. (2012). <i>Guía de metodologías participativas comunitarias</i>. Universidad Andina Simón Bolívar.',
+        'Soliz, F. y Maldonado, A. (2012). <em>Guía de metodologías comunitarias participativas.</em> Universidad Andina Simón Bolívar.',
       tipo: 'Guía',
       link:
         'https://repositorio.uasb.edu.ec/bitstream/10644/3997/1/Soliz,%20F-CON008-Guia5.pdf ',
     },
     {
-      tema: 'Aldeas Infantiles SOS Colombia',
-      referencia: 'Aldeas Infantiles SOS Colombia (2022). ',
+      tema: 'Metodologías participativas',
+      referencia: 'Aldeas Infantiles SOS Colombia. (2022). ',
       tipo: 'Página Web',
       link: 'https://www.aldeasinfantiles.org.co/',
     },
     {
-      tema: 'Informe de los Objetivos del Desarrollo Sostenible 2022',
+      tema: 'Problemáticas ambientales y promotorías ambientales',
       referencia:
-        'Organización de las Naciones Unidas (2022). <i>Informe de los Objetivos del Desarrollo Sostenible</i>. ONU.',
+        'Organización de las Naciones Unidas. (2022). <em>Informe de los Objetivos del Desarrollo Sostenible.</em> ONU.',
       tipo: 'Informe ',
       link:
         'https://unstats.un.org/sdgs/report/2022/The-Sustainable-Development-Goals-Report-2022_Spanish.pdf ',
@@ -239,7 +206,7 @@ export default {
     },
     {
       referencia:
-        'Gobierno de Colombia. Unidad para la Atención y Reparación Integral a las Víctimas (2022). <i>Unidad Para las Víctimas</i>. Obtenido de ',
+        'Gobierno de Colombia. Unidad para la Atención y Reparación Integral a las Víctimas (2022). Enfoques diferenciales. ',
       link:
         'https://www.unidadvictimas.gov.co/es/atencion-asistencia-y-reparacion-integral/enfoques-diferenciales/473#:~:text=La%20ley%20establece%20que%3A,sexual%20y%20situaci%C3%B3n%20de%20discapacidad',
     },
@@ -251,7 +218,7 @@ export default {
     },
     {
       referencia:
-        'IDEAM. Instituto de Hidrología, Meteorología y Estudios Ambientales. (2017). <i>Elaboración del informe del estado del medio ambiente y los recursos naturales renovables.</i>',
+        'IDEAM. Instituto de Hidrología, Meteorología y Estudios Ambientales. (2017). <em>Elaboración del informe del estado del ambiente y los recursos naturales renovables.</em> ',
       link:
         'http://sgi.ideam.gov.co/documents/412030/499496/M-GCI-P002%20PROCEDIMIENTO%20ELABORACI%C3%93N%20IEARNR.pdf/16e0a36b-25c3-4076-afbd-7b61cd31ba59',
     },
@@ -263,15 +230,15 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible Colombia. (2022). Aprobado en tercer debate Acuerdo de Escazú que será ley a partir del tratado internacional de América Latina y el Caribe relativo al medio ambiente, y el primero del mundo que incluye disposiciones sobre los derechos de los defensores del medio ambiente',
+        'Ministerio de Ambiente y Desarrollo Sostenible Colombia. (2022). <em>Aprobado Acuerdo de Escazú a 63 días de iniciar Gobierno del presidente Petro.</em> ',
       link:
         'https://www.minambiente.gov.co/acuerdo-de-escazu/aprobado-acuerdo-de-escazu-a-63-dias-de-iniciar-gobierno-del-presidente-petro/#:~:text=El%20Acuerdo%20de%20Escaz%C3%BA%20entr%C3%B3,los%20defensores%20del%20medio%20ambiente.',
     },
     {
       referencia:
-        'Ministerio del Trabajo Colombia1.950 <i>Decreto 2663 de 1950</i>. Código Sustantivo del Trabajo ',
+        'Ministerio de Salud y Protección Social de Colombia. 1.950 <em>Decreto 2663 de 1950.</em> Código Sustantivo del Trabajo  ',
       link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=33104',
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/INEC/IGUB/Decreto-2663-de-1950.pdf',
     },
     {
       referencia:

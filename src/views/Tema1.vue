@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Comunidades
+      h1 Comunidades: tipos, formas y características socio-ecológicas
 
     p Suele asociarse el término comunidad a un grupo de personas que están reunidas en un territorio o lugar físico, pero una definición más apropiada sería la agrupación de individuos que tienen algo en común, un idioma, una ideología, un territorio o un objetivo, el cual puede ser desde un interés social, político o cultural, hasta un #[i hobbie] o característica física. Estos aspectos en común generan culturas, costumbres e identidades que diferencian a cada comunidad de las demás y hace que los individuos sean partícipes de ella.      
       
@@ -23,11 +23,9 @@
       .col-md-11.mt-5
         .cajon.color-acento-contenido.segundo-color-cajon.p-3
           .row.justify-content-center.p-3 
-            p Existen diferentes tipos de comunidades, formas de organización y actores de interés. A continuación, veremos cómo se organizan y cómo es su correlación dentro de sus organizaciones, características, grupos de interés y roles de los actores a intervenir abordados en el caso de promotoría ambiental.
+            p Existen diferentes tipos de comunidades, formas de organización y actores de interés. A continuación, veremos cómo se organizan y cómo es su correlación dentro de sus organizaciones, características, grupos de interés y roles de los actores a intervenir, abordados en el caso de promotoría ambiental:
 
-    <separador></separador>
-    #t_1_1.titulo-segundo.color-acento-contenido.mt-5
-      h2 1.1 Tipos y formas de organización en comunidades  
+    h3 Tipos y formas de organización en comunidades  
 
     p.mb-5 El tipo de comunidad se define por el objetivo colectivo que persiguen y, por tanto, es posible encontrar muchos tipos de comunidades, algunos ejemplos pueden ser:
 
@@ -91,9 +89,11 @@
           .row.justify-content-center.p-3 
             p Los actores sociales son individuos o grupos de individuos que se encuentran dentro de la comunidad y promueven iniciativas enfocadas en el cambio o la transformación. Estas iniciativas, generalmente, benefician a la comunidad o a una parte de ella. La naturaleza de los actores sociales es el llamado a la acción y al movimiento generalizado de la comunidad con el objetivo de cambiar algo que la afecta de una forma. 
 
-    <separador></separador>
-    #t_1_2.titulo-segundo.color-acento-contenido.mt-5
-      h2 1.2	Actores sociales y grupos de interés
+    h3.mb-4 Actores sociales y grupos de interés
+    p.mb-5(data-aos='fade-right') Se entiende por actores sociales, a todos aquellos individuos que tienen injerencia en los asuntos comunes y que son reconocidos como tales. Por su parte, los grupos de interés son aquellas conformaciones formales o informales de un conglomerado de individuos, quienes comparten un interés común y, en el cual, los individuos tienen oportunidad de aportar o de beneficiarse.
+      br
+      br
+      |Las características de los actores sociales suelen ser:
 
     ImagenInfografica.color-primario
       template(v-slot:imagen)
@@ -126,7 +126,7 @@
       .col-md-11.mt-5
         .cajon.color-primario.segundo-color-cajon-verde.p-3
           .row.justify-content-center.p-3 
-            p A continuación se encuentran descritos los roles, así como las relaciones de los grupos poblacionales en entornos comunitarios entre sectores de una sociedad en el ejercicio de la promotoría ambiental.
+            p A continuación, se encuentran descritos los roles, así como las relaciones de los grupos poblacionales en entornos comunitarios, entre sectores de una sociedad, durante el ejercicio de la promotoría ambiental:
 
     h3.mt-5 Representación de las relaciones entre sectores de una sociedad
     p.mt-5.mb-5 En esta sección se presentan las relaciones que se establecen entre los diferentes sectores de la sociedad, se identifican los roles del sector gubernamental representado por el Estado y responsable del poder político; el sector privado actor que representa en gran parte el poder económico; y el sector social representante del poder de asociación, cooperación y solidaridad. Estas tres figuras no deben actuar como entes aislados, sino que deben promover la acción conjunta y participativa. Los actores sociales pueden encontrarse en cualquiera de las esferas, como se verá más adelante en algunos ejemplos.         
@@ -150,11 +150,10 @@
       .col-md-8.mt-5
         .bg-tarjeta.h-bg-tarjeta.px-5.py-2.mb-5 
           .row.justify-content-center.mt-5
-            p.text-white En Colombia, la organización comunitaria se encuentra representada por diversos actores sociales que se encuentran organizados en colectivos. La forma prototípica de organización es la comunal, considerada una instancia de participación a través de la cual las comunidades deciden organizarse para liderar e impulsar procesos comunitarios en barrios y veredas, materializándose a través de espacios participativos, para mejorar el quehacer en la vida de las comunidades y los individuos que las integran. Algunas de estas formas organizativas se describen a continuación.                     
+            p.text-white En Colombia, la organización comunitaria se encuentra representada por diversos actores sociales que se encuentran organizados en colectivos. La forma prototípica de organización es la comunal, considerada una instancia de participación a través de la cual las comunidades deciden organizarse para liderar e impulsar procesos comunitarios en barrios y veredas, materializándose a través de espacios participativos, para mejorar el quehacer en la vida de las comunidades y los individuos que las integran.               
         .row.justify-content-center.mt-5          
           .col-md-10
-            p A continuación, se presentarán algunos ejemplos de actores sociales, algunos de sus representantes de mayor interés en Colombia y la normativa que, en muchos de los casos, rige su existencia.
-
+            p A continuación, se presentarán algunos ejemplos de actores sociales, algunos de los representantes de mayor interés en Colombia y la normativa que, en muchos de los casos, rige su existencia:
     .bg-slider.px-5.py-3.mb-5.mt-5
       LineaTiempoC.color-acento-contenido(texto-pequeño)
         .row(titulo="Organizaciones colombianas no gubernamentales")
@@ -220,11 +219,9 @@
           img(src='@/assets/curso/temas/tema1/img19.png', alt='alt') 
 
 
-    <separador></separador>
-    #t_1_3.titulo-segundo.color-acento-contenido.mt-5
-      h2 1.3	Enfoque pluralista y diferencial  
+    h3.mb-5 Enfoque pluralista y diferencial  
 
-    p El concepto de enfoque diferencial y pluralista, así como algunos conceptos y principios, las características y el marco normativo (derecho internacional, constitución colombiana, leyes y decretos) las encontraremos descritas en el siguiente apartado.
+    p.mb-5 El concepto de enfoque diferencial y pluralista, así como algunos otros conceptos y principios, las características y el marco normativo (derecho internacional, constitución colombiana, leyes y decretos), se encuentran descritos en el siguiente apartado:
 
     TabsC.color-primario.mb-5.bg2
       .py-3.py-md-4.bg-tabc(titulo="Enfoque diferencial")
@@ -255,14 +252,15 @@
       .col-md-10.mt-5
         .cajon.color-acento-contenido.segundo-color-cajon.p-3
           .row.justify-content-center.p-3 
-            p Un sistema ecológico o ecosistema es un sistema formado por organismos vivos que pertenecen a varias especies, los cuales interaccionan entre sí y se organizan en un determinado ambiente, a esto se le conoce como características socio-ecológicas cuando confluyen en un territorio en donde los seres humanos y sus formas de relacionarse con el medio determinan este relacionamiento, tal y como se describe a continuación.
+            p Un sistema ecológico o ecosistema, es un método conformado por organismos vivos que pertenecen a varias especies, los cuales interaccionan entre sí y se organizan en un determinado ambiente; se le conoce como características socio-ecológicas, cuando confluyen en un territorio en donde los seres humanos y sus formas de relacionarse con el medio, determinan este relacionamiento, tal y como se describe a continuación:
 
 
-    <separador></separador>
-    #t_1_4.titulo-segundo.color-acento-contenido.mt-5
-      h2 1.4	Características socio-ecológicas
+    h3 Características socio-ecológicas
 
-    p Cuando se describen las características socio-ecológicas en un espacio determinado donde existen interacciones sociales, se enmarcan en actividades económicas de las cuales sus habitantes derivan el sustento, a las formas y usos tradicionales del suelo, a su biodiversidad y, por supuesto, a los valores culturales; visto lo anterior desde el concepto ecológico que aborda a los seres vivos con sus procesos de organización desde el organismo, o en este caso, a los individuos y aquellas relaciones con su entorno.
+    p Cuando se describen las características socio-ecológicas en un espacio determinado, donde existen interacciones sociales, se enmarcan actividades económicas de las cuales sus habitantes derivan el sustento, formas y usos tradicionales del suelo, biodiversidad y, por supuesto, valores culturales.
+      br
+      br
+      |Los rasgos socio-ecológicos permiten identificar a los seres humanos, desde sus procesos de organización entre sí y, también, desde sus relaciones con su entorno:
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-acordeon-verde").mt-5
       .row(titulo="Recursos accesibles").px-5.py-2

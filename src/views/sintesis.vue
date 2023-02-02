@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
     
-    p.mt-5.mb-5 Apreciado aprendiz, los seres humanos pudimos evolucionar gracias a la interacción como sociedad, la resolución de problemas y la unión de fuerzas como miembros de una misma comunidad. Se espera que una persona que desarrolle procesos de promotoría ambiental pueda reconocer tanto la comunidad en la que se encuentra, como los problemas que la aquejan, establezca soluciones o espacios de diálogo que permitan establecerlas y proponga alternativas novedosas, basadas en la propia experiencia o en la imaginación, finalmente, que identifique las formas en las que puede llegar a su comunidad y cumplir con éxito las metas propuestas. Aquí, se presentan los tipos de comunidades que pueden encontrarse en la sociedad, sus formas de organización, los actores sociales que pueden ayudar en el desarrollo de este rol como promotor ambiental, algunas metodologías que promueven la participación de la comunidad y una guía para la elaboración de informes ambientales según lo estipulado por el gobierno de Colombia. 
+    p.mt-5.mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo:
 
     .row.justify-content-center
       .col-lg-10.mb-5

@@ -38,7 +38,7 @@
       .col-md-10.mt-5
         .cajon.color-primario.segundo-color-cajon-verde.p-3
           .row.justify-content-center.p-3 
-            p Es importante mencionar que las metodologías participativas no son necesariamente estáticas y 100 % eficaces, sino que, en ocasiones, pueden combinarse o modificarse en el mismo curso de la actividades, por lo que es deber del facilitador estar atento a las señales que puede dar la comunidad. Algunas metodologías participativas son las siguientes.
+            p Es importante mencionar que las metodologías participativas no son, necesariamente, estáticas y 100 % eficaces, sino que, en ocasiones, pueden combinarse o modificarse en el mismo curso de las actividades, por lo que es deber del facilitador estar atento a las señales que puede dar la comunidad. Algunas metodologías participativas son las siguientes:
 
     h3.mt-5.mb-5 Herramientas de participación comunitaria
     .row.justify-content-center.mb-5
@@ -109,7 +109,7 @@
 
         .bloque-texto-b2.color-bloque-texto-amarillo.mt-3
             .bloque-texto-b__texto
-              p La lúdica en la enseñanza y las actividades participativas a través del juego son estrategias colaborativas para la resolución de situaciones colectivas como veremos a continuación.
+              p La lúdica en la enseñanza y las actividades participativas a través del juego, son estrategias colaborativas para la resolución de situaciones colectivas, como veremos a continuación:
       .col-md-4
         figure(data-aos="fade-left") 
           img(src='@/assets/curso/temas/tema2/img10.png', alt='alt') 
@@ -161,11 +161,16 @@
       .row.justify-content-center
         .col.col-margenes-1
           .tarjeta-bloque.p-3
-            p Esta metodología busca relacionar al individuo con su ambiente, posicionarlo dentro de la comunidad y ofrecer una perspectiva global del entorno en el que se encuentra.
-            p La actividad se desarrolla por medio de mapas, diagramas y dibujos, en los cuales los participantes identifican su comunidad, los actores principales, las problemáticas, los riesgos y las oportunidades, en tres fases.  
+            p Esta metodología busca relacionar al individuo con su ambiente, posicionarlo dentro de la comunidad y ofrecer una perspectiva global del entorno en el que se encuentra. 
+              br
+              br
+              |La actividad se desarrolla por medio de mapas, diagramas y dibujos, en los cuales los participantes identifican su comunidad, los actores principales, las problemáticas, los riesgos y las oportunidades, en tres fases.  
       .row.justify-content-center
         .col.col-margenes 
-          p.text-white La idea es identificar el pasado, el presente y el futuro de la comunidad, por medio de dibujos de ella. A continuación, se presentan algunas imágenes ejemplo de esta actividad. Se invita al aprendiz a leer el material complementario de Soliz y Maldonado (2012) y Universidad Nacional de Colombia (2017), en donde se presenta la planeación y ejecución de esta actividad. 
+          p.text-white La idea es identificar el pasado, el presente y el futuro de la comunidad, por medio de dibujos de ella.
+            br
+            br
+            |Estimado aprendiz, recuerde explorar el material complementario; allí encontrará elementos detallados de la planeación y ejecución de la cartografía social.
 
     .row.justify-content-center.mt-5
       .bg-tarjeta-3.px-5.py-2.mb-5  
@@ -174,7 +179,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img16.png', alt='') 
           .col-md-7.mt-4
-            p Tradicionalmente, las comunidades se han establecido y evolucionado con base en la explotación de algún recurso natural, debido a lo anterior es frecuente que las ciudades y pueblos se encuentren muy cerca e incluso alrededor de grandes ríos, valles o praderas. Recursos como el agua y el suelo, en el pasado, permitieron el establecimiento de los procesos agrícolas, la cría de ganado y la construcción de asentamientos que han derivado consigo problemáticas ambientales como las que se exponen a continuación. 
+            p Tradicionalmente, las comunidades se han establecido y evolucionado con base en la explotación de algún recurso natural; debido a lo anterior, es frecuente que las ciudades y pueblos se encuentren muy cerca y alrededor de grandes ríos, valles o praderas. En el pasado, recursos como el agua y el suelo, permitieron el establecimiento de los procesos agrícolas, la cría de ganado y la construcción de asentamientos que han derivado consigo, problemáticas ambientales.
 
 
 </template>

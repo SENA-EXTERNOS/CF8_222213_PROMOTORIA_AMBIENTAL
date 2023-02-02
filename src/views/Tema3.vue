@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span.text-white 3
-      h1 Problemáticas ambientales
+      h1 Problemáticas ambientales y promotorías ambientales
 
     p Algunas problemáticas ambientales, como la contaminación, son derivadas de las actividades humanas debido al uso indiscriminado y acceso de los recursos naturales que generan conflictos ambientales.
 
@@ -81,7 +81,7 @@
       .col-md-10.mt-5
         .cajon.color-primario.segundo-color-cajon-verde.p-3
           .row.justify-content-center.p-3 
-            p Hemos visto cómo los problemas ambientales requieren atención especial, ahora veremos cómo los informes son fundamentales a la hora de dar cuenta de los ejercicios de promotoría ambiental. Si bien los informes no tienen un formato específico y se acondiciona a las necesidades de cada contexto o comunidad, estos deben tener unas características mínimas que se presentan a continuación. 
+            p Hasta este punto de la temática estudiada, se ha visto cómo los problemas ambientales requieren atención especial. Así mismo, los informes son fundamentales a la hora de dar cuenta de los ejercicios de promotoría ambiental. Si bien los informes no tienen un formato específico, aunque se acondicionan a las necesidades de cada contexto o comunidad, deben poseer unas características mínimas que se conocerán a continuación:
         
     h3.mt-5.mb-5  Informes
     p Los informes ambientales son herramientas que permiten consignar la información correspondiente a alguna situación, problemática, iniciativa, o actividad, en este caso de carácter ambiental. Ayudan, entre otras cosas, a llevar un control de las variables que afectan la situación, a identificar avances o retrocesos, a transmitir la información de manera clara y ordenada a diferentes personas o entes que puedan estar interesados en el tema. También permiten actualizar la información y mantener una cadena de observaciones que posibilite identificar oportunidades y dificultades en la aplicación de procesos similares en lugares o tiempos futuros. 
@@ -96,41 +96,48 @@
 
       .tarjeta.color-tarjeta-punto-caliente(x="9%" y="50%" numero="1" )  
         .row.justify-content-center.p-4
+          h4 Resumen 
           p Donde fácilmente se identifique el tema que se abordará, los objetivos, la metodología y las conclusiones del tema.
 
       .tarjeta.color-tarjeta-punto-caliente(x="70%" y="12%" numero="2" )  
         .row.justify-content-center.p-4
+          h4 Objetivos
           p Donde se establezca la razón de ser del informe. 
 
       .tarjeta.color-tarjeta-punto-caliente(x="26%" y="40%" numero="3" )  
         .row.justify-content-center.p-4
+          h4 Introducción
           p En la que se explique la situación, problemática o iniciativa y se describa el área influenciada.
 
       .tarjeta.color-tarjeta-punto-caliente(x="78%" y="80%" numero="4" )  
         .row.justify-content-center.p-4
+          h4 Antecedentes
           p Aquí se debe presentar un seguimiento de la situación, problemática o iniciativa, así como algunos datos que permitan contextualizar a la persona que lea el informe. Si se trata de un informe periódico, puede hacerse referencia a informes o progresos previos.
 
       .tarjeta.color-tarjeta-punto-caliente(x="90%" y="50%" numero="5" )  
         .row.justify-content-center.p-4
+          h4 Metodología
           p Donde se explique la forma en la que se recolectaron los datos, se organizaron y analizaron.
 
       .tarjeta.color-tarjeta-punto-caliente(x="24%" y="83%" numero="6" )  
         .row.justify-content-center.p-4
+          h4 Análisis de los datos
           p Este análisis siempre dependerá del tipo de los datos, bien sean cualitativos o cuantitativos. 
 
       .tarjeta.color-tarjeta-punto-caliente(x="45%" y="75%" numero="7" )  
         .row.justify-content-center.p-4
+          h4 Conclusiones y perspectivas futuras
           p Observaciones que pudieron obtenerse en la elaboración del informe y propuestas obtenidas del análisis de los datos.
 
     .row.justify-content-center.mt-5
       .col-md-11.mt-5
         .cajon.color-acento-contenido.segundo-color-cajon.p-3
           .row.justify-content-center.p-3 
-            p En Colombia, la metodología o las actividades que se deben emprender para la construcción de un informe ambiental acorde a la normatividad vigente deben seguir una serie de actividades que pasarán a describirse a continuación.
+            p En Colombia, la metodología o las actividades que se deben emprender para la construcción de un informe ambiental, acordes con la normatividad vigente, deben practicar una serie de actividades que pasarán a describirse a continuación:
 
 
     h3.mt-5.mb-5 Metodología para la elaboración de informes
-    p.mb-5 La metodología de elaboración del informe debe contemplar una serie de actividades que serán descritas a continuación (IDEAM. Instituto de Hidrología, Meteorología y Estudios Ambientales, 2017).
+    p.mb-5 La metodología de elaboración del informe debe contemplar una serie de actividades que serán descritas a continuación:
 
     SlyderF(columnas="col-sm-4")
       .tarjeta-avatar
@@ -177,8 +184,22 @@
     .row.justify-content-center.mt-5
       .bg-tarjeta-2.px-5.py-2.mb-5       
         .col-md-10.mt-5    
-          p.text-white La promotoría ambiental se considera un ejercicio de intervención social y comunitaria que permite conocer las necesidades de una población a fin de participar en las decisiones que le afectan con respecto a la conservación del entorno natural, para conocer más sobre el tema explora el siguiente video.
-
+          p.text-white La promotoría ambiental se considera un ejercicio de intervención social y comunitaria, que permite conocer las necesidades de una población, con el fin de participar en las decisiones que le afectan, con respecto a la conservación del entorno natural.
+    h3 Promotoría ambiental
+    .row.justify-content-center.mb-5
+      .col-lg-4.col-8: img(src='@/assets/curso/temas/tema3/c1.png', alt='')
+      .col-lg-8
+        p Las promotorías ambientales, en tanto procesos sistemáticos, se convierten en mecanismos cruciales para la formación y generación de consciencia ambiental en las comunidades y colectivos. Las promotorías potencian las capacidades y posibilidades de los actores sociales, fundamentalmente, líderes comunitarios. De la misma manera, facilitan el desarrollo de proyectos y programas en las comunidades, con los cuales se aporta a la sostenibilidad, tanto ambiental como social.
+          br
+          br
+          |Observe, en el siguiente video sobre el ejercicio de la promotoría ambiental, sus definiciones, objetivos y técnicas, para la conservación de la biodiversidad y los ecosistemas:
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        .cajon.color-primario.p-4.mb-4(style="background-color: #e8f4f4")
+          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 
 </template>
