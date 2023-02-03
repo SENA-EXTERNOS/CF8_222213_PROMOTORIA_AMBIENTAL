@@ -7,7 +7,7 @@
         span.text-white 3
       h1 Problemáticas ambientales y promotorías ambientales
 
-    p Algunas problemáticas ambientales, como la contaminación, son derivadas de las actividades humanas debido al uso indiscriminado y acceso de los recursos naturales que generan conflictos ambientales.
+    p Algunas problemáticas ambientales, como la contaminación, son derivadas de las actividades humanas debido al uso indiscriminado y acceso de los recursos naturales que generan conflictos ambientales:
 
     .row.justify-content-center.mt-5.mb-5
       .col-md-8

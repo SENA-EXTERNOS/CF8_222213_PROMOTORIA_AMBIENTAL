@@ -16,6 +16,9 @@
             br
             br
             |Debido a lo anterior, organizar y alistar los recursos necesarios, conforme a las características del grupo de interés o el contexto donde se van a ejecutar, es fundamental para cumplir con el propósito social de un proyecto ambiental.
+            br
+            br
+            | En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
         .col-md-3
           figure(data-aos="fade-left")
             img(src='@/assets/curso/temas/img1.png', alt='')

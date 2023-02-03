@@ -19,7 +19,7 @@
             p Las comunidades requieren de líderes y actores que representen un objetivo colectivo y den significado al aspecto en común, fomentando la motivación de los demás individuos y de alguna u otra forma el crecimiento. 
             p Estas se nutren de los miembros que pertenecen a ella, de su dinamismo y de su compromiso. 
 
-    .row.justify-content-center.mt-5
+    .row.justify-content-center.mb-5
       .col-md-11.mt-5
         .cajon.color-acento-contenido.segundo-color-cajon.p-3
           .row.justify-content-center.p-3 
@@ -83,7 +83,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img7.png') 
 
-    .row.justify-content-center.mt-5
+    .row.justify-content-center.mb-5
       .col-md-11.mt-5
         .cajon.color-acento-contenido.segundo-color-cajon.p-3
           .row.justify-content-center.p-3 
@@ -130,7 +130,10 @@
 
     h3.mt-5 Representación de las relaciones entre sectores de una sociedad
     p.mt-5.mb-5 En esta sección se presentan las relaciones que se establecen entre los diferentes sectores de la sociedad, se identifican los roles del sector gubernamental representado por el Estado y responsable del poder político; el sector privado actor que representa en gran parte el poder económico; y el sector social representante del poder de asociación, cooperación y solidaridad. Estas tres figuras no deben actuar como entes aislados, sino que deben promover la acción conjunta y participativa. Los actores sociales pueden encontrarse en cualquiera de las esferas, como se verá más adelante en algunos ejemplos.         
-
+    .titulo-sexto.color-primario(data-aos='fade-right')
+      h5 Figura 1
+      br
+      span.fst-italic Representación de las relaciones entre sectores de una sociedad
     .row.justify-content-center.mt-5
       .col-md-12.mt-5
         figure 
@@ -140,8 +143,7 @@
           .anexo__icono
             img(src="@/assets/curso/temas/tema1/img10.png")
           .anexo__texto
-            p #[span.text-bold Nota.] Salas Rodas, J. (2017, p. 6). Las ONG colombianas: debilidades, entorno no habilitante y posibles salidas. [Documento web] 
-            p https://ccong.org.co/files/766_at_LAS%20ONG%20COLOMBIANAS%20-%20Julian%20Salas.pdf
+            p #[span.text-bold Nota: tomado de Salas, J. (2017)]
 
     .row.justify-content-center.mt-5
       .col-md-4.mt-5
@@ -248,7 +250,7 @@
           .col-lg-6.order-1.order-lg-2.mb-4.mb-lg-0.mt-5
             p En el año 2016, el SENA firmó el Acuerdo 0010, “por medio del cual se adopta la política de Atención con enfoque pluralista y Diferencial en el SENA”. Este documento promueve, de manera progresiva y sostenible, el acceso y uso, en igualdad de oportunidades, a los servicios de la Entidad, permitiendo la inclusión de toda la población desde sus diferencias e igualdades (Consejo Directivo Nacional del SENA, 2016). Es muy importante que tanto la comunidad y su filosofía como los actores se encuentren comprometidos con este enfoque. 
 
-    .row.justify-content-center.mt-5
+    .row.justify-content-center.mb-5
       .col-md-10.mt-5
         .cajon.color-acento-contenido.segundo-color-cajon.p-3
           .row.justify-content-center.p-3 

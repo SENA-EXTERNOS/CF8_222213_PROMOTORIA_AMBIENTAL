@@ -48,7 +48,7 @@
             .col-8
               figure
                 img(src='@/assets/curso/temas/tema2/img4.png', alt='alt')
-          h5 Herramientas auditivas y audiovisuales
+          h3 Herramientas auditivas y audiovisuales
           p Se trata de películas, cortometrajes y videos que lleven a la reflexión y promuevan la discusión.
       .col-sm-6.col-lg-4.mb-4.mb-lg-0
         .tarjeta--boton.color-tarjeta-avatar.h-tarjeta-avatar.p-4
@@ -130,7 +130,7 @@
               figure
                 img(src='@/assets/curso/temas/tema2/img12.png', alt='')         
             .col-md-7.mb-4.mb-md-0
-              p El objetivo de este tipo de juego es motivar al grupo, romper el hielo entre los asistentes y permitir la socialización. Se trata de aquellas dinámicas que todos conocen pues las jugaban cuando eran pequeños o con sus hijos. Juegos como la “lleva”, el “escondite”, “saltar la cuerda”, “carreras”, entre otros, hacen parte de este grupo. 
+              p El objetivo de este tipo de juego es motivar al grupo, romper el hielo entre los asistentes y permitir la socialización. Se trata de aquellas dinámicas que todos conocen, pues las jugaban cuando eran pequeños o con sus hijos. Juegos como la “lleva”, el “escondite”, “saltar la cuerda”, “carreras”, entre otros, hacen parte de este grupo.  
 
         row(numero="3" titulo="Juegos de competencias") 
           .row.justify-content-center
