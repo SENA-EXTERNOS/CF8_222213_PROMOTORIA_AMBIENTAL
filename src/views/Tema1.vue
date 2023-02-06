@@ -134,8 +134,8 @@
       h5 Figura 1
       br
       span.fst-italic Representación de las relaciones entre sectores de una sociedad
-    .row.justify-content-center.mt-5
-      .col-md-12.mt-5
+    .row.justify-content-center.mb-5
+      .col-md-12
         figure 
           img(src='@/assets/curso/temas/tema1/img9.png', alt='alt') 
       .col-md-10
