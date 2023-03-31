@@ -195,7 +195,7 @@
           |Observe, en el siguiente video sobre el ejercicio de la promotoría ambiental, sus definiciones, objetivos y técnicas, para la conservación de la biodiversidad y los ecosistemas:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/_-CijRm1_Bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.color-primario.p-4.mb-4(style="background-color: #e8f4f4")
