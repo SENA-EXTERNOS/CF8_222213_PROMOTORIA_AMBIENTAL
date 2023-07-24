@@ -107,7 +107,7 @@ export default {
         'Departamento de Participación Social y Gestión Integral del Usuario. (2017). <em>Guía de metodologías participativas para facilitadores de grupos.</em> Ministerio de Salud de Chile.',
       tipo: 'Guía',
       link:
-        'https://redsalud.ssmso.cl/wp-content/uploads/2019/03/Gu%C3%ADa-de-metodolog%C3%ADas-participativas-para-Facilitadores-de-grupos.pdf ',
+        'https://redsalud.ssmso.cl/wp-content/uploads/2019/03/Gu%C3%ADa-de-metodolog%C3%ADas-participativas-para-Facilitadores-de-grupos.pdf',
     },
     {
       tema: 'Metodologías participativas ',
