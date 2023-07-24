@@ -197,7 +197,7 @@ export default {
       referencia:
         'Departamento de Participación Social y Gestión Integral del Usuario. (2017). <i>Servicio de Salud Metropolitano Sur Oriente. Región Metropolitana</i>. Ministerio de Salud Chile',
       link:
-        '. https://redsalud.ssmso.cl/wp-content/uploads/2019/03/Gu%C3%ADa-de-metodolog%C3%ADas-participativas-para-Facilitadores-de-grupos.pdf',
+        'https://redsalud.ssmso.cl/wp-content/uploads/2019/03/Gu%C3%ADa-de-metodolog%C3%ADas-participativas-para-Facilitadores-de-grupos.pdf',
     },
     {
       referencia:
