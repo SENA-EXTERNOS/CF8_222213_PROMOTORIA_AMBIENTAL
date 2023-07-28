@@ -61,7 +61,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema3/img6.png', alt='')
 
-          row(numero="+" titulo="Gestión de los Recursos naturales") 
+          row(numero="+" titulo="Gestión de los recursos naturales") 
             .row.justify-content-center
               .col-md-7.mb-4.mb-md-0
                 p A nivel mundial existen múltiples organizaciones que velan por la gestión de los recursos, como UNESCO, Naciones Unidas, la Organización Mundial de la Salud, las cuales promueven iniciativas de protección y cuidado del medio ambiente, por ejemplo, los Objetivos del Desarrollo Sostenible, propuestos en el año 2015 por las Naciones Unidas.  
@@ -69,7 +69,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema3/img7.png', alt='')         
 
-          row(numero="+" titulo="Desarrollo Sostenible") 
+          row(numero="+" titulo="Desarrollo sostenible") 
             .row.justify-content-center
               .col-md-7.mb-4.mb-md-0
                 p Las organizaciones establecen objetivos relacionados con el cuidado del agua, la generación de energía no contaminante y el llamado a las alianzas para el cumplimiento de los objetivos. Anualmente, emiten informes acerca del cumplimiento de estos. Se invita al aprendiz a conocer el informe del año 2022, relacionado en el material complementario. 
