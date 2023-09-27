@@ -192,7 +192,7 @@
 
         .row(titulo="Sindicalismo colombiano")
           .col-md-6.mb-4.mb-md-0.mt-5
-            p.mt-5 En Colombia, la existencia y pertenencia a los sindicatos está estipulada como derecho en el Artículo 39 de la Constitución Política de Colombia (1991) y en el      Código Sustantivo del Trabajo  . Ejemplos de sindicatos en Colombia son: la Central Unitaria de Trabajadores CUT, Unión Nacional de Trabajadores del Estado y los Servicios Públicos de Colombia UTRADEC y Confederación de Trabajadores de Colombia CTC. Se invita al aprendiz a visitar los sitios web de estas organizaciones disponibles en el material complementario.
+            p.mt-5 En Colombia, la existencia y pertenencia a los sindicatos está estipulada como derecho en el Artículo 39 de la Constitución Política de Colombia (1991) y en el Código Sustantivo del Trabajo. Ejemplos de sindicatos en Colombia son: la Central Unitaria de Trabajadores CUT, Unión Nacional de Trabajadores del Estado y los Servicios Públicos de Colombia UTRADEC y Confederación de Trabajadores de Colombia CTC. Se invita al aprendiz a visitar los sitios web de estas organizaciones disponibles en el material complementario.
           .col-md-6
             figura
               img(src='@/assets/curso/temas/tema1/img17.png', alt='')  
