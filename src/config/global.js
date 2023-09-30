@@ -218,12 +218,6 @@ export default {
     },
     {
       referencia:
-        'IDEAM. Instituto de Hidrología, Meteorología y Estudios Ambientales. (2017). <em>Elaboración del informe del estado del ambiente y los recursos naturales renovables.</em> ',
-      link:
-        'http://sgi.ideam.gov.co/documents/412030/499496/M-GCI-P002%20PROCEDIMIENTO%20ELABORACI%C3%93N%20IEARNR.pdf/16e0a36b-25c3-4076-afbd-7b61cd31ba59',
-    },
-    {
-      referencia:
         'Ministerio de Ambiente de Colombia. (2022). <i>Red Nacional de Promotores Ambientales Comunitarios.</i>',
       link:
         'https://archivo.minambiente.gov.co/index.php/ordenamiento-ambiental-territorial-y-coordinacion-del-sina/educacion-y-participacion/red-nacional-de-promotores-ambientales-comunitarios',
